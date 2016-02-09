@@ -1,0 +1,17 @@
+Problems of screenshots  in project "SDU Timetabling":
+
+1)not shown how each actor will interact with the system
+
+2)In screenshots,not shown the corresponding services of admin in screenshots
+
+3)In figure-6, dont describe how lead to this figure 
+
+4) In figure-3 , dont describe all buttons, their functions.
+
+
+
+Benefits:
+1) project to be understood, to understand what it is necessary to use \ to push the team to carry out any operation;
+2) that there was no disagreement between the client and developers;
+3) so that team members had no problems with the performance of work;
+
