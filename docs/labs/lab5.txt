@@ -1,0 +1,14 @@
+Main problems:
+1. A step 2 placed before step 1
+2. Features did not explain.
+3. In use-case 'Register course', the actors whose wrote in text, did not have sequence diagram
+4. In use-case 'Student Course Apply', 
+    some steps like 
+    'Student goes to courses page and if a registration time is open then he/she’ll see the list of available courses' 
+    did not describe in sequential diagram 
+
+Features:
+1)In this app users can see the statistics of their results.For this,app must have feature database.
+2)Users can pass test and for this use-case app have a  feature like  class "test".
+
+
