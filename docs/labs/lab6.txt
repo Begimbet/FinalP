@@ -1,0 +1,32 @@
+1)A4_ex2:
+2)Problem requirement :
+		3.2.2 Events
+			The SDU Timetabling shall allow the user to select “Events” from top menu
+3)Unambiguous,because  we don't know  each user(guest or registered user) select "Events" from top menu
+4)Begimbet Zholdassov
+
+1)A4_ex2
+2)problem requirement :
+		3.2.2.3.6 (M) The SDU Timetabling shall allow the user to select dates of event from
+calendar.
+3)Untraceable,because didnt explain trace for 'calendar' 
+4)Shakir Abay
+
+
+1)A4_ex2 SDU Timetabling
+2)3.2.1.2.5 (M) The SDU Timetabling shall allow to press on “Export” button in order to export data to iCalendar after pressing “Next” button.
+3)Untraceable, because in this requirement didn't explain about 'iCalendar'.
+4)Student: Ramadan Suingaliyev
+
+
+
+1)A4_ex2 SDU Timetabling
+2) 3.2.2.4.11 (M) The SDU Timetabling shall clear all data in case “Clear” button is pressed.
+3)Incomplete, because in this requirement didn't explain 'all data'. And it is not known what is meant by the word 'all data'.
+4)Student: Zhuldyz Sabyrzhanova
+
+
+1)A4_ex2 SDU Timetabling
+2)3.2.2.1.3 (M) The SDU Timetabling shall allow the user to select from drop down list in “Sponsoring Organizations” field
+3)Unambiguous,because  “Sponsoring Organizations”  did not explained
+4)Student:Alezhanov Bekzhan
